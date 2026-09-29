@@ -15,7 +15,7 @@ export const sections = [
   {
     title: 'Herramientas de Trabajo',
     links: [
-      { label: 'Tareas + POP Agosto', url: 'https://docs.google.com/presentation/d/1reWuK_pjmccv485uhAh9KTiUBHXSjt0V/edit?usp=drive_link&ouid=107309932802546485771&rtpof=true&sd=true' },
+      { label: 'Tareas + POP', url: 'https://docs.google.com/presentation/d/1ebLbioFrMSfaK8x3ZvTsWdI-6zgrzEMI/edit?slide=id.p1#slide=id.p1' },
       { label: 'Logos CVZ', url: 'https://drive.google.com/drive/folders/1r5oyFDIyZyTAg1-LUdtfvVV8kLWTGXwK' },
       { label: 'Logos NA', url: 'https://linktr.ee/NABSCMQ' },
     ],
@@ -23,7 +23,6 @@ export const sections = [
   {
     title: 'Datos Adicionales',
     links: [
-      { label: 'Libreta Sanitaria', url: 'https://docs.google.com/forms/d/e/1FAIpQLSdtPX-5W9fb8P7zUaH391woqXv147ORrdYsaf-A17dn8JgwFg/viewform' },
       { label: 'Carnet de Conducir', url: 'https://docs.google.com/forms/d/e/1FAIpQLSctIp6pM_GeEJxWdZpn7Wx_CyY4GAnaP1XtFFy2hh5-vjq65w/viewform' },
       { label: 'Solicitud de Permisos', url: 'https://docs.google.com/forms/d/e/1FAIpQLSf6fbJSev711ReP2695PLH9TynwdToY2m9z8UMyOps5LOMRgQ/viewform' },
     ],
