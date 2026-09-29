@@ -1,4 +1,5 @@
-import { sections } from './links.js';
+// Evita que la caché de Pages conserve una versión anterior de los accesos.
+const { sections } = await import(`./links.js?v=${Date.now()}`);
 
 const container = document.getElementById('sections');
 
