@@ -15,7 +15,7 @@ export const sections = [
   {
     title: 'Herramientas de Trabajo',
     links: [
-      { label: 'Tareas + POP', url: 'https://docs.google.com/presentation/d/1ebLbioFrMSfaK8x3ZvTsWdI-6zgrzEMI/edit?slide=id.p1#slide=id.p1' },
+      { label: 'Tareas + POP', url: 'https://docs.google.com/presentation/d/1ebLbioFrMSfaK8x3ZvTsWdI-6zgrzEMI/edit?usp=sharing&ouid=107309932802546485771&rtpof=true&sd=true' },
       { label: 'Logos CVZ', url: 'https://drive.google.com/drive/folders/1r5oyFDIyZyTAg1-LUdtfvVV8kLWTGXwK' },
       { label: 'Logos NA', url: 'https://linktr.ee/NABSCMQ' },
     ],
